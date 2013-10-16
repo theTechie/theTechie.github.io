@@ -1,4 +1,4 @@
 theTechie.github.io
 ===================
 
-My personal pages.
+Learn. Build. Share.
